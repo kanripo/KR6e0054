@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 信力入印法門經
+#+DATE: 2015-09-28 22:56:59.180406
+#+PROPERTY: JUAN 0
