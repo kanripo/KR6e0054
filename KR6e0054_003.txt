@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:58.907273
+#+DATE: 2015-09-28 22:57:02.208321
 #+TITLE: 信力入印法門經
 #+PROPERTY: CBETA_ID T10n0305
 #+PROPERTY: ID KR6e0054
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 305
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0054_T_003-0940a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《信力入印法門經》卷第三¶
+《信力入印法門經》卷第三¶
 ¶
 元魏天竺三藏曇摩流支譯¶
 
@@ -190,8 +189,7 @@
 五？一謂菩薩生如是心：『我已得住入非智慧¶
 斷煩惱非不智慧斷煩惱故，生安隱心；為令¶
 他住入非智慧斷煩惱非不智慧斷煩惱故，起¶
-安慰心。』有言入非智慧斷煩惱非不智慧斷¶
-煩惱者，所謂智慧體即煩惱體。何以故？以¶
+安慰心。』有言入非智慧斷煩惱非不智慧斷煩惱者，所謂智慧體即煩惱體。何以故？以¶
 智慧體不異煩惱體、煩惱體不異智慧體，即
 <pb:KR6e0054_T_003-0941c>¶
 智慧體是煩惱體、即煩惱體是智慧體，以是¶
