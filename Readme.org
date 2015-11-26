@@ -1,12 +1,22 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:02.116462
-#+TITLE: 信力入印法門經
-#+PROPERTY: CBETA_ID T10n0305
-#+PROPERTY: ID KR6e0054
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 305
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@LI
+#+TITLE: 信力入印法門經 / T@LI
+#+DATE: 2015-11-26 14:13:31.059310
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ | T@NANZANG|【大→南藏】  |
+ |   T@QISHA|【大→磧砂】  |
+ |   T@SHENG|【大→聖】   |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-<pb:KR6e0054_T_000-0928c>¶
-
+* 目次
+* 卷
+** [[file:KR6e0054_001.txt][信力入印法門經 1]]
+** [[file:KR6e0054_002.txt][信力入印法門經 2]]
+** [[file:KR6e0054_003.txt][信力入印法門經 3]]
+** [[file:KR6e0054_004.txt][信力入印法門經 4]]
+** [[file:KR6e0054_005.txt][信力入印法門經 5]]
