@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:58.880821
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:46
 #+TITLE: 信力入印法門經
 #+PROPERTY: CBETA_ID T10n0305
 #+PROPERTY: ID KR6e0054
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 305
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0054_T_002-0934b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《信力入印法門經》卷第二¶
+《信力入印法門經》卷第二¶
 ¶
-元魏天竺三藏曇摩流支譯¶
+元魏天竺〔三藏〕－【宋】【宮】＊三藏曇摩流支譯天竺三藏曇摩流支譯¶
 
 「復次，文殊師利菩薩摩訶薩！有五種法則能¶
 清淨初歡喜地，得大無畏安隱之處。何等為¶
