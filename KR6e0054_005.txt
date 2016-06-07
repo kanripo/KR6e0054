@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:01.912442
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:47
 #+TITLE: 信力入印法門經
 #+PROPERTY: CBETA_ID T10n0305
 #+PROPERTY: ID KR6e0054
